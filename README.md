@@ -1,4 +1,4 @@
-# YouTube-Channel-Analyis
+# YouTube-Channel-Data-Analyis
 
 Here, Youtube.ipynb is data analysis using direct csv(top-5000-youtube-channels.csv) file. 
 
